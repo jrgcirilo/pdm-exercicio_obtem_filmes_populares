@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Consulta Filmes</string>
+   <string name="descPosterMovie">Cartaz do filme</string>
+    <string name="site_TMDX" translatable="false">https://api.themoviedb.org/3/movie/popular?api_key=36aee4a82f3b32fc53ca371d575847f4&amp;language=en-US&amp;page=1</string>
+    <string name="descTitleMovie">Título do filme</string>
+    <string name="descResumeMovie">Resumo do filme</string>
+    <string name="action_settings">Configurações</string>
+</resources>
